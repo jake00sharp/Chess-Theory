@@ -53,4 +53,9 @@ Our database is populated with my favorite openings. It by no means is exhaustiv
 
 ## License
 
-GPL (see `LICENSE`).
+This project is [licensed](./LICENSE) under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+
+## Artificial Intelligence
+
+Parts of this project were built with AI assistance to speed up scaffolding/boilerplate, documentation, and occasional debugging. I write or review every change I commit.

@@ -130,7 +130,3 @@ This app has four major internal components:
 - **PR Checks:** lint, typecheck, unit tests, build
 - **Deploy:** build and deploy `apps/web` to GitHub Pages
 - **Docs Deploy:** build and deploy documentation
-
-## Artificial Intelligence
-
-Parts of this project were built with AI assistance to speed up scaffolding/boilerplate, documentation, and occasional debugging. I write or review every change I commit.
